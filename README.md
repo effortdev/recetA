@@ -24,10 +24,12 @@
 5. 디자인 패턴 : MVC 패턴
 
 ## 2. ER Diagram
+![image](https://user-images.githubusercontent.com/89984853/198649694-9e975d06-8599-4fbc-8626-c9435d02f490.png)
 
 
 ## 3. 흐름도 및 메뉴 구성도
-
+![image](https://user-images.githubusercontent.com/89984853/198645290-2fe5f29b-7eba-4f67-81bb-72be47fb57eb.png)   
+![image](https://user-images.githubusercontent.com/89984853/198645738-cd9c4823-e3c6-4cbc-971c-c870bcc8519e.png)   
 
 ## 4. 프로젝트 일정
 
