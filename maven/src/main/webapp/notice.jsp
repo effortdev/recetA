@@ -201,7 +201,7 @@
 		              	  <span><h6>문의사항</h6></span>
 		              	  <form action="QnaCon" method="post">
 						  <label for="exampleFormControlInput1" class="form-label">Email address</label>
-						  <input type="email" class="form-control" name="title" id="exampleFormControlInput1" placeholder="smhrdrecetA@gamil.com" disabled>
+						  <input type="email" class="form-control" name="title" id="exampleFormControlInput1" placeholder="smhrdrecetA@gmail.com" disabled>
 						
 						<div class="mb-3">
 						  <label for="exampleFormControlTextarea1" class="form-label"><br>문의사항 입력해주세요</label>
