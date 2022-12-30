@@ -83,9 +83,9 @@
   - 데이터베이스 요구사항 분석서
   - 화면 설계서   
 
-![6](https://user-images.githubusercontent.com/89984853/208909289-4f464f64-5efe-4fac-94b7-592c254a0c5e.jpg)
+<!-- ![6](https://user-images.githubusercontent.com/89984853/208909289-4f464f64-5efe-4fac-94b7-592c254a0c5e.jpg)
 ![7](https://user-images.githubusercontent.com/89984853/208909298-db3de636-3d2e-4c99-8731-7957cc25d76f.jpg)
-![8](https://user-images.githubusercontent.com/89984853/208916628-74b13ed2-e9cb-4b19-a5f1-0195bb5bceba.jpg)
+![8](https://user-images.githubusercontent.com/89984853/208916628-74b13ed2-e9cb-4b19-a5f1-0195bb5bceba.jpg) -->
 
 ---
 
